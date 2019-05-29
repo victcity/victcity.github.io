@@ -17,7 +17,7 @@ title: victcity
 email: victcity@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   victcity's page
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "https://victcity.github.io" # the subpath of your site, e.g. /blog
 url: "https://victcity.github.io" # the base hostname & protocol for your site
 github_username:    victcity
 #instagram_username: jekyllrb
