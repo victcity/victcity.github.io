@@ -9,7 +9,7 @@ Welcome to Hardy's Brick World!
 > ## Hardy's Brick World!
 
 <figure>
-	<img src="/img/logo.jpg">
+	<img src="/img/积木logo.jpg">
   <figcaption>
     Our logo
   </figcaption>
