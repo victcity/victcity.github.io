@@ -8,7 +8,7 @@ Welcome to Hardy's Brick World!
 
 > ## Hardy's Brick World!
 
------
+<hr>
 
 > ### Our LOGO
 
