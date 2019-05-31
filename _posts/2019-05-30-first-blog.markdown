@@ -10,7 +10,4 @@ Welcome to Hardy's Brick World!
 
 <figure>
 	<img src="/img/积木logo.jpg" height="600" width="600">
-  <figcaption>
-    Our logo
-  </figcaption>
 </figure>
