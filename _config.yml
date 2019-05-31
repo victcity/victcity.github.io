@@ -1,12 +1,12 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: victcity
+email: victcity@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  victcity's blog
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  "http://victcity.github.io/" # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+#twitter_username: twitter_username
+github_username:  victcity
 
 # Build settings
 markdown: kramdown
